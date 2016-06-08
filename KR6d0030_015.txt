@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 16:09
+#+DATE: 2016-06-08 16:10
 #+TITLE: 法華經玄贊要集
 #+PROPERTY: CBETA_ID X34n0638
 #+PROPERTY: ID KR6d0030
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 34, No. 638
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS K
 #+PROPERTY: LASTPB <pb:KR6d0030_X_015-0514c> 
 #+PROPERTY: JUAN 15
 法華經玄贊要集卷第十五¶
@@ -820,7 +820,7 @@
 便者便宜。¶
 
 言實無此事等者。如來實無叱呵調達。愛語羅睺。金¶
-鏘馬麥。亦如瞿師覩三尺。五百婆羅門灰身。持衣說¶
+鏘馬麥。亦如瞿師覩三尺。五百婆羅門[厂@火]身。持衣說¶
 淨乞食等事。今說有者。應物現權而有。故言方便也。¶
 
 言謂以三業者。佛地論六云。謂成所作智起三業化。¶
